@@ -1,0 +1,11 @@
+D:\Users\Dinger\Desktop\TestMyEntityFramework\bin\Debug\netcoreapp1.1\TestMyEntityFramework.deps.json
+D:\Users\Dinger\Desktop\TestMyEntityFramework\bin\Debug\netcoreapp1.1\TestMyEntityFramework.runtimeconfig.json
+D:\Users\Dinger\Desktop\TestMyEntityFramework\bin\Debug\netcoreapp1.1\TestMyEntityFramework.runtimeconfig.dev.json
+D:\Users\Dinger\Desktop\TestMyEntityFramework\bin\Debug\netcoreapp1.1\TestMyEntityFramework.dll
+D:\Users\Dinger\Desktop\TestMyEntityFramework\bin\Debug\netcoreapp1.1\TestMyEntityFramework.pdb
+D:\Users\Dinger\Desktop\TestMyEntityFramework\bin\Debug\netcoreapp1.1\MyEntityFrameWork.dll
+D:\Users\Dinger\Desktop\TestMyEntityFramework\bin\Debug\netcoreapp1.1\MyEntityFrameWork.pdb
+D:\Users\Dinger\Desktop\TestMyEntityFramework\obj\Debug\netcoreapp1.1\TestMyEntityFramework.csprojResolveAssemblyReference.cache
+D:\Users\Dinger\Desktop\TestMyEntityFramework\obj\Debug\netcoreapp1.1\TestMyEntityFramework.AssemblyInfo.cs
+D:\Users\Dinger\Desktop\TestMyEntityFramework\obj\Debug\netcoreapp1.1\TestMyEntityFramework.dll
+D:\Users\Dinger\Desktop\TestMyEntityFramework\obj\Debug\netcoreapp1.1\TestMyEntityFramework.pdb
