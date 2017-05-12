@@ -26,7 +26,7 @@
     <DotNetCliToolReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Tools" Version="1.0.0" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="F:\VS2017 Project\MyEntityFrameWork\MyEntityFramework\MyEntityFrameWork.csproj" />
+   
   </ItemGroup>
 
 </Project>
