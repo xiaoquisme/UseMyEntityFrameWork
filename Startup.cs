@@ -31,7 +31,8 @@ namespace TestMyEntityFramework
         {
             // Add framework services.
             services.AddMvc();
-            services.AddScoped<SqlServerDatabase>();
+            //添加我自己的服务，这里声明的类型为基类型性，实现的是sqlServer的的数据库的类型。
+            services.AddScoped<BasicsDatabase, SqlServerDatabase>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

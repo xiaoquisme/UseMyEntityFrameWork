@@ -13,10 +13,10 @@ namespace TestMyEntityFramework.Controllers
 {
     public class UserInfoController : Controller
     {
-        private readonly SqlServerDatabase _context;
-        public UserInfoController( SqlServerDatabase _serverDatabase)
+        private readonly BasicsDatabase _context;
+        public UserInfoController(BasicsDatabase Database)
         {
-            _context = _serverDatabase;
+            _context = Database;
         }
         
         // GET: /<controller>/
